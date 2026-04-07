@@ -12,6 +12,6 @@ venv/
 # Data (ignore generated files)
 data/*.csv
 data/*.xlsx
-
+app/*.csv
 # OS
 .DS_Store
